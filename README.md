@@ -14,3 +14,6 @@ Offline & Local: your data never leaves your device
 Zero Sign‑In: instant use, no personal info required
 
 ⚡ Whether you’re organizing solo or collaborating in groups, this app keeps things simple, secure, and stylish.
+
+
+## For using the app on web visit: https://cadence-v8.netlify.app/
