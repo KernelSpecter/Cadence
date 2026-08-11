@@ -1,2 +1,2 @@
-Available on google play store 1st August 2026 onwards.
-(Link will be available soon)
+Available on google play store.
+https://play.google.com/store/apps/details?id=com.cadence.todo
